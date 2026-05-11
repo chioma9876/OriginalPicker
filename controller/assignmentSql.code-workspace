@@ -1,0 +1,88 @@
+{
+	"folders": [
+		{
+			"path": "../../assignmentSql"
+		},
+		{
+			"path": "../../1stGitHub"
+		},
+		{
+			"path": "../../2ndGitHub"
+		},
+		{
+			"path": "../../3rdGitHub"
+		},
+		{
+			"path": "../../BACKEND"
+		},
+		{
+			"path": "../../cohort_7"
+		},
+		{
+			"path": "../../HTML CLASSES"
+		},
+		{
+			"path": "../../htmlClass"
+		},
+		{
+			"path": "../../mySql"
+		},
+		{
+			"path": "../../NODE CLASSES"
+		},
+		{
+			"path": "../../Sequelize"
+		},
+		{
+			"path": "../../Simple-Student-Portfolio"
+		},
+		{
+			"path": "../../weekendAssignment"
+		},
+		{
+			"path": "../../validationMrAhmed"
+		},
+		{
+			"path": "../../multerClass"
+		},
+		{
+			"path": "../../multipleFileUploads"
+		},
+		{
+			"path": "../../cloudinaryClass"
+		},
+		{
+			"path": "../../multipleCloudinary"
+		},
+		{
+			"path": "../../wickedAssignment"
+		},
+		{
+			"path": "../../LAUNDRYBEST"
+		},
+		{
+			"path": "../../mongoDbClass"
+		},
+		{
+			"path": "../../MongoDbPickerAss"
+		},
+		{
+			"path": "../../cohort7-mongoDB"
+		},
+		{
+			"path": "../../assMongoDbValidation"
+		},
+		{
+			"path": "../../mongoDB -MrJosh"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../OAuth"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mongoDbClass"
+	}
+}
