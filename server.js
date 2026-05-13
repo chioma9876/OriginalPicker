@@ -17,11 +17,13 @@ const passport = require('passport');
 // require('./controller/github')
 const swaggerUI = require('swagger-ui-express');
 const swaggerJsdoc = require('swagger-jsdoc');
+const rateLimiter = require('./middleware/rateLimiter');
 
 
 app.use(expressSession({secret: 'chioma', saveUninitialized: false, resave: false}));
 app.use(passport.initialize());
 app.use(passport.session())
+app.use(rateLimiter)
 app.use('/api/v1/user',userRouter);
 app.use('/api/v1/location', location);
 app.use('/api/v1/weather', weather);
